@@ -1,0 +1,3 @@
+https://next-frontend-fawn-ten.vercel.app/auth
+https://next-backoffice-eosin.vercel.app/auth
+https://next-backend-taupe.vercel.app/
